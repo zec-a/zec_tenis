@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T16:41:16.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WPfXaOB3qtPmAQC-pS-e" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T17:13:14.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mLn_HWyHFUF9uQDMm82j" version="24.0.0" type="github">
   <diagram id="TEUiNxYTieck04TVwxDP" name="Page-1">
-    <mxGraphModel dx="1221" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;IP Address, disk space, database&lt;/i&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#050505;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-8" value="Web Hosting Server" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-9" value="www.DomainName.ca" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-10" value="db1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.66668701171875;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="420" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-11" value="db2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.66668701171875;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-12" value="db3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.66668701171875;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7u33rf7G5Ih5s1nUaPU-15" value="Local machine #1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
